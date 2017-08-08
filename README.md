@@ -5,7 +5,10 @@ My Name is Shaheen  Hyder K. I was born on 04/05/2002. Doing Fab course under th
 #### [Introduction to Fablab](http://shaheenhyderk.github.io/intro.md)
 
 ### Day 2:-
-#### [Github Pages and Documentation]
+#### [Github Pages and Documentation](http://shaheenhyderk.github.io/Github Pages and Documentation.md)
+
+### Day 3:-
+
 
 
 
