@@ -13,7 +13,9 @@ A fab lab (fabrication laboratory) is a small-scale workshop offering (personal)
 
 Neil A. Gershenfeld (born 1959 or 1960) is an American professor at MIT and the director of MIT’s Center for Bits and Atoms, a sister lab to the MIT Media Lab. His research studies are predominantly focused in interdisciplinary studies involving physics and computer science, in such fields as quantum computing, nanotechnology, and personal fabrication.He is Considered As Father Of FAB LAB.
 [For more information click here.](https://en.wikipedia.org/wiki/Neil_Gershenfeld)
+
 <img src=https://shaheenhyderk.github.io/n.jpg>
+
 
 ## Machines
 
@@ -34,6 +36,8 @@ CNC Router,[For more information click here.](https://en.wikipedia.org/wiki/CNC_
 #### [Github Pages and Documentation](https://shaheenhyderk.github.io/Github-Pages-and-Documentation.github.io/)
 
 ### Day 3:-
+#### [Vinyl Cutting](http://shaheenhyderk.github.io/Vinyl-Cutting.github.io/)
+
 
 
 
