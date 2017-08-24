@@ -35,8 +35,17 @@ CNC Router,[For more information click here.](https://en.wikipedia.org/wiki/CNC_
 ### Day 2:-
 #### [Github Pages and Documentation](https://shaheenhyderk.github.io/Github-Pages-and-Documentation.github.io/)
 
-### Day 3:-
+### Day 4:-
 #### [Vinyl Cutting](http://shaheenhyderk.github.io/Vinyl-Cutting.github.io/)
+
+### Day 5:-
+#### [3D-Printing](http://shaheenhyderk.github.io/3D-printing.github.io/)
+
+### Day 6:-
+#### [Laser Cutting](http://shaheenhyderk.github.io/Laser.github.io/)
+
+### Day 7:-
+#### [CNC Milling](http://shaheenhyderk.github.io/milling.github.io/)
 
 
 
