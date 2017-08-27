@@ -51,8 +51,12 @@ For knowing about the major machines used in Fablab, click on the below picture:
 ### Day 6:-
 #### [Laser Cutting](http://shaheenhyderk.github.io/Laser.github.io/)
 
+#### [Phone Stand](http://shaheenhyderk.github.io/phone-stand.github.io/)
+
 ### Day 7:-
 #### [CNC Milling](http://shaheenhyderk.github.io/milling.github.io/)
+
+#### [Programmer](http://shaheenhyderk.github.io/Programmer.github.io/)
 
 
 ### Day 8:-
