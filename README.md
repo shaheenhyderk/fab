@@ -1,6 +1,6 @@
 ## Welcome To My Fablab
 
-<img src="https://shaheenhyderk.github.io/f.jpg">
+<img src="https://shaheenhyderk.github.io/a.jpg">
 
 ## About me
 My Name is Shaheen  Hyder K. I was born on 04/05/2002. Doing Fab course under the assistance of [Mr.Jaseel](http://archive.fabacademy.org/archives/2016/fablabtrivandrum/students/390/) from MES Fablab on my 10th class. The class was started on august 2, 2017.
@@ -45,6 +45,8 @@ For knowing about the major machines used in Fablab, click on the below picture:
 
 ### Day 5:-
 #### [3D-Printing](http://shaheenhyderk.github.io/3D-printing.github.io/)
+
+#### [Selfie Stick Body](http://shaheenhyderk.github.io/selfie.github.io/)
 
 ### Day 6:-
 #### [Laser Cutting](http://shaheenhyderk.github.io/Laser.github.io/)
