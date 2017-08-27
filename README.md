@@ -8,8 +8,12 @@ My Name is Shaheen  Hyder K. I was born on 04/05/2002. Doing Fab course under th
 
 ## Contact Me
 
-[<img src="https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/facebook_social_media_logo-64.png" width="75" height="75">](https://www.facebook.com/shaheen.hyder.3)
-[<img src="https://cdn4.iconfinder.com/data/icons/happily-colored-snlogo/512/gmail-email-mail-logo-circle-material.png" width="75" height="75">](https://mail.google.com/mail/#inbox?compose=15e234412046e162)
+## <img src="https://cdn4.iconfinder.com/data/icons/happily-colored-snlogo/512/gmail-email-mail-logo-circle-material.png" width="25" height="25"> shaheenhyderk@gmail.com
+
+## <img src="https://shaheenhyderk.github.io/phone_number-512.png" width="25" height="25"> 9446241702
+
+[<img src="https://cdn3.iconfinder.com/data/icons/social-media-and-logos-brush/32/facebook_social_media_logo-64.png" width="30" height="30">](https://www.facebook.com/shaheen.hyder.3) (CLICK ON ICON)
+
 
 ## What is Fab lab ?
 
@@ -62,5 +66,4 @@ For knowing about the major machines used in Fablab, click on the below picture:
 #### [My Final Project](http://shaheenhyderk.github.io/final.github.io/)
 
 
-
-
+[<img src="https://shaheenhyderk.github.io/Thank.jpg" width="800" height="500">]
